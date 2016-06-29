@@ -2,7 +2,7 @@
 
 TodoMVC with Akka-http, Scala.js, Autowire and React.
 
-This project is essentially a fork of [scalajs-react](https://github.com/tastejs/todomvc/tree/gh-pages/examples/scalajs-react) enhanced with a back-end and the proper sbt configuration for development/deployment.
+This project is essentially a fork of [Scalajs-React TodoMVC Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/scalajs-react) enhanced with a back-end and the proper sbt configuration for development/deployment.
 
 - `model`: Shared Todo model
 - `web-client`: Scala.js/React client
